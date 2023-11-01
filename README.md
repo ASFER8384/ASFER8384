@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">About me<br> <br>🌍  I am a Front-End Developer based in Chennai, Tamilnadu.</p>
+<p align="left">About me<br> <br>🌍  I am a Full Stack Developer based in Chennai, Tamilnadu.</p>
 
 ###
 
