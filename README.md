@@ -37,6 +37,9 @@
   <a href="https://www.linkedin.com/in/mohamed-asfer-ali-3011421bb/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.linkedin.com/in/mohamed-asfer-ali-3011421bb/">
+    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagramin&logoColor=white" alt="Instagram Badge"/>
+  </a>
 </div>
 
 ###
